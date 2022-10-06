@@ -9,6 +9,8 @@ export class CalculateComponent implements OnInit {
 
   public op1:number=0;
   public op2:number=0;
+  public verde:string = "color: green";
+  public rojo:string = "color: red";
 
   public result:number=0;
 
